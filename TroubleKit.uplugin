@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "TroubleKit",
+	"Description": "A collection of debugging and troubleshooting tools.",
+	"Category": "Other",
+	"CreatedBy": "Jeff Stewart",
+	"CreatedByURL": "https://github.com/object01",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "TroubleKit",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
